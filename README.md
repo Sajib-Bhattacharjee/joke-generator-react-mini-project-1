@@ -1,9 +1,14 @@
+
+< align="center" div> 
+
 # `Joke Generator Using React and Joke API`
 
 ## 🌟 **Live Preview** 🌟
 
 💕 [**Joke Generator**](https://joke-generator2025.netlify.app/) 💕  
 🎉 Click to explore the fun and laughter! 😄
+
+</div>
 
 ## Overview
 
