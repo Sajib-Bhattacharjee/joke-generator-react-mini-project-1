@@ -1,5 +1,6 @@
 
-< align="center" div> 
+<div align="center">
+
 
 # `Joke Generator Using React and Joke API`
 
