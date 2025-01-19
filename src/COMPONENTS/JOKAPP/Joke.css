@@ -1,0 +1,36 @@
+/* Joke.css */
+
+body {
+  background-color: #050f40;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.joke {
+  border-radius: 1rem;
+  width: auto;
+  height: auto;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: beige;
+  background-color: #274b5e;
+  margin: 1rem 2rem;
+  padding: 1rem 0;
+}
+
+h1 {
+  text-align: center;
+  color: beige;
+}
+p {
+  margin: 0 0.5rem;
+  background-color: #520c5a;
+  padding: 1rem;
+  text-align: justify;
+  border-radius: 0.5rem;
+}

@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: black;
+  color: white;
+
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.link {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+.link:hover {
+  text-decoration: underline;
+  color: red;
+}
+nav .active {
+  color: yellow;
+}
