@@ -145,8 +145,22 @@ The **Joke Generator Using React and Joke API** is a fun and simple project to d
 
 ---
 
-## Links
+ 
+<div align="center">
 
-- [Joke API Documentation](https://sv443.net/jokeapi/v2/)
-- [Vite Documentation](https://vitejs.dev/)
-- [React Documentation](https://reactjs.org/)
+##### 🛡️ `All rights reserved by Sajib Bhattacharjee @2025`
+
+### 👨‍💻 `Created with ❤️ by -->`
+
+✨ **Sajib Bhattacharjee** ✨
+
+**💖 Dedicated to "Sir! Anisul Islam" 💖**
+
+> > > > ### 🙏 Thanks a Lot for Visiting...!!!
+
+🌐 [**Portfolio & Projects**](https://github.com/Sajib-Bhattacharjee)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/)  
+📧 [**Contact Me**](mailto:sajibbhattacjarjee2000@gmail.com)
+
+</div>
+
